@@ -1,10 +1,10 @@
-# FreeCodeCamp - JavaScript Algorithms and Data Structures Projects: Roman Numeral Converter
+# FreeCodeCamp Assignment - JavaScript Algorithms and Data Structures Projects: Roman Numeral Converter
 
 Convert the given number into a roman numeral.
 
 All roman numerals answers should be provided in upper-case.
 
-# Assignment
+# Output Examples
 
 convertToRoman(2) should return "II".
 
